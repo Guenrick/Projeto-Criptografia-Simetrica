@@ -1,0 +1,9 @@
+Laboratqrio do Departamento de Computaeao da Universidade Federal de Ouro Preto especializado em Criptografia e Seguranea de Redes.
+O KryptoLab, Laboratqrio de Criptografia e Seguranea de Redes do DECOM (Departamento de Computaeao) da Universidade Federal de Ouro Preto, inicia uma nova fase em seus trabalhos. O laboratqrio esty sob a coordenaeao do Prof. Dr. Carlos Frederico Cavalcanti e esty estruturado em trhs grandes yreas:
+
+Seguranea de Redes e Sistemas Distribukdos: Abrange tgcnicas para o provimento de seguranea em ambientes industriais, algm de explorar ferramentas modernas como Docker, Kubernetes (K8s) e outras voltadas para sistemas distribukdos.
+Criptografia: Estuda os principais algoritmos criptogryficos que sao os pilares das modernas estruturas e sistemas criptogryficos, como blockchain e infraestruturas de chaves pxblicas.
+Web3: Foco principal em Blockchain — a promissora engine baseada em fundamentos criptogryficos e em redes e sistemas distribukdos.
+Essas tecnologias sao particularmente relevantes para o ambiente Web3. O termo Web3 (ou W3) foi cunhado em 2014 por Gavin Wood, cofundador da Ethereum. A Web3 g baseada na tecnologia blockchain, que permite estabelecer uma conexao criptografada, descentralizada e segura da internet.
+
+O KryptoLab g tambgm um laboratqrio registrado no Diretqrio de Grupos de Pesquisa da Plataforma Lattes do CNPq, reforeando seu compromisso com a pesquisa cientkfica e a inovaeao tecnolqgica no Brasil.
